@@ -19,7 +19,7 @@ export function Section() {
 			<div className='intro_text'>
 				<h1 className='intro_title'>
 					<span data-animation='text-reveal'>
-						<span>it's </span>
+						<span>{"it's"}</span>
 					</span>
 					<span data-animation='text-reveal'>
 						<span>in the </span>
